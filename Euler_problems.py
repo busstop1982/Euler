@@ -187,6 +187,7 @@ def search_tri(bloing: int):
 
 
 # print(search_tri(500))
+# 14
 from CollatzTree import Branch
 
 for i in range(1, 10):
